@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Computer Science Major  
+Hobby Coder
+
+
 <!--
 **raflchan/raflchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
